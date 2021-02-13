@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+D:\zadanie_meelogic\Random_Playlist_C++\Random_Playlist_C++\Źródło.cpp(26,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Random_Playlist_C++.vcxproj -> D:\zadanie_meelogic\Random_Playlist_C++\Debug\Random_Playlist_C++.exe
